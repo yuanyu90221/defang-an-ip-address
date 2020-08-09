@@ -104,7 +104,8 @@ func Test_defangIPaddr(t *testing.T) {
 }
 
 ```
-
+## my self record
+[leetcode ironman 30 day fifth day](https://hackmd.io/yC8ZOUhmTlGlfl-7Qx4lAQ?view)
 ## 參考文章
 
 [golang test](https://ithelp.ithome.com.tw/articles/10204692)
